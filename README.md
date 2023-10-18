@@ -34,6 +34,8 @@ python3 evaluate_hf.py -m /workspace/models/llama2-7b-hf
 
 ![](https://s2.loli.net/2023/10/18/3FJk2psOInuTAZ9.png)
 
+![](https://s2.loli.net/2023/10/18/tjZrMLHk3cOmfVs.png)
+
 ## 参考网址
 
 *   [mmlu](https://github.com/ollmer/mmlu)
