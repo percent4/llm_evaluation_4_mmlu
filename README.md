@@ -1,8 +1,8 @@
 ## 数据集
 
-**MMLU**（Massive Multitask Language Understanding）数据集参考data目录，或者从下面的网址下载：
+**MMLU**（Massive Multitask Language Understanding）数据集下载：
 
-[https://people.eecs.berkeley.edu/~hendrycks/data.tar](https://people.eecs.berkeley.edu/~hendrycks/data.tar)
+[MMLU数据集下载](https://people.eecs.berkeley.edu/~hendrycks/data.tar)
 
 ## 评估结果
 
@@ -30,6 +30,9 @@ python3 evaluate_hf.py -m /workspace/models/llama2-7b-hf
 | Baichuan2-13B-Base | 0.5901                   | 0.4954 | 0.5505     | 0.6783          | 0.6521 | 3460.3            |
 | internlm-20b       | 0.6063                   | 0.5113 | 0.5615     | 0.7033          | 0.6675 | 5709.98           |
 | Mistral-7B-v0.1    | 0.6267                   | 0.5268 | 0.5658     | 0.7364          | 0.7039 | 2517.74           |
+
+
+![](https://s2.loli.net/2023/10/18/3FJk2psOInuTAZ9.png)
 
 ## 参考网址
 
