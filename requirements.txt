@@ -3,6 +3,5 @@ pandas==2.1.1
 torch==2.1.0
 transformers==4.34.0
 tokenizers==0.13.3
-
-百川模型时
-transformers==4.33.1
+transformers==4.33.1 # 百川模型
+transformers==4.36.2 # mistralai/Mixtral-8x7B-v0.1
