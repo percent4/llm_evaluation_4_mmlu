@@ -18,7 +18,8 @@ model_list = ['llama2-7b-hf',
               'llama2-13b-hf',
               'internlm-20b',
               'llama2-70b-hf',
-              'Mixtral-8x7B-v0.1']
+              'Mixtral-8x7B-v0.1',
+              'gemma-7b']
 
 y_list = []
 model_metric_dict = {}
