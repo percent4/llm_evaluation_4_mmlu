@@ -19,7 +19,8 @@ model_list = ['llama2-7b-hf',
               'internlm-20b',
               'llama2-70b-hf',
               'Mixtral-8x7B-v0.1',
-              'gemma-7b']
+              'gemma-7b',
+              'Yi-9B']
 
 x_list = ["STEM", "humanities", "social sciences", "other", "weighted_accuracy"]
 y_list = []
